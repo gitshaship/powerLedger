@@ -2,7 +2,7 @@
 
 How to run
 
-dependencies - Java 11 or higher, mvn 3.x
+dependencies - Java 11, mvn 3.x
 
 steps:-
 1. clone the project
